@@ -1,0 +1,1 @@
+This is the repository of the Data and R code for the Manuscript "Tracking Forest Change in Peri-Urban Landscapes of Mexico City Using Landsat Imagery and Neural Network Regression" currently under revision in Geomatics
