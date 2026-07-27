@@ -1,0 +1,5 @@
+model,n,RMSE,MAE,Bias,Pearson_r,R2,calibration_intercept,calibration_slope
+MLP,5000,20.318,15.915,0.109,0.753,0.567,20.668,0.573
+Gradient boosting,5000,20.564,16.007,0.025,0.746,0.557,20.557,0.573
+Random Forest,5000,20.672,16.060,-0.002,0.743,0.552,20.959,0.564
+Linear regression,5000,21.173,16.747,0.352,0.729,0.531,23.909,0.510
